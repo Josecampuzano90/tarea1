@@ -4,7 +4,7 @@ tarea
 
 # Programación Tradicional
 
-def ingresar_temperaturas():
+def ingresar_temperaturas(): 
     """Solicita las temperaturas diarias al usuario y las almacena en una lista."""
     temperaturas = []
     for dia in range(1, 8):
