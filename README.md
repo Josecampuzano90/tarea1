@@ -1,5 +1,7 @@
 # tarea1
 tarea
+# Comparación entre Programación Tradicional y Programación Orientada a Objetos (POO) en Python
+
 # Programación Tradicional
 
 def ingresar_temperaturas():
@@ -24,6 +26,8 @@ def main_tradicional():
 # Llamada al programa tradicional
 if __name__ == "__main__":
     main_tradicional()
+
+# -----------------------------------------------------
 
 # Programación Orientada a Objetos (POO)
 
@@ -58,3 +62,17 @@ def main_poo():
 # Llamada al programa POO
 if __name__ == "__main__":
     main_poo()
+
+# -----------------------------------------------------
+
+# Comparación
+
+# Programación Tradicional:
+# - Enfocada en funciones y procedimientos.
+# - Los datos (temperaturas) se manejan de manera global entre funciones.
+# - Fácil de implementar para programas simples.
+
+# Programación Orientada a Objetos:
+# - Enfocada en clases y objetos que encapsulan datos y comportamientos.
+# - Promueve la reutilización y escalabilidad del código.
+# - Los datos (temperaturas) se manejan dentro de objetos, favoreciendo la modularidad.
